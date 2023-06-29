@@ -18,3 +18,9 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+jmh{
+    fork=1
+    warmupIterations = 1
+    iterations = 1
+}
