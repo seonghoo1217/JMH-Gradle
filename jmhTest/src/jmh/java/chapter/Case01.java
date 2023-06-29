@@ -2,6 +2,7 @@ package chapter;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;
+import org.openjdk.jmh.runner.options.OptionsBuilder;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,4 +47,9 @@ public class Case01 {
 	private List<Integer> StreamMethod(List<Integer> list){
 		return list.stream().filter(val -> val % 5==0).collect(Collectors.toList());
 	}
+
+//	public static void main(String[] args) {
+//		new OptionsBuilder()
+//				.include(Redu)
+//	}
 }

@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id 'org.springframework.boot' version '2.7.12'
+    id 'io.spring.dependency-management' version '1.0.15.RELEASE'
     id 'me.champeau.jmh' version '0.7.1'
 }
 
@@ -13,6 +15,10 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    // https://mvnrepository.com/artifact/org.openjdk.jmh/jmh-generator-annprocess
+    testImplementation 'org.openjdk.jmh:jmh-generator-annprocess:1.35'
+    // https://mvnrepository.com/artifact/org.openjdk.jmh/jmh-core
+    testImplementation 'org.openjdk.jmh:jmh-core:1.35'
 }
 
 test {

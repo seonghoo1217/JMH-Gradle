@@ -1,3 +1,5 @@
-Benchmark                  Mode  Cnt      Score   Error  Units
-Case01.ArrayListBenchMark  avgt       14281.474          ns/op
-Case01.StreamBenchMark     avgt       11175.336          ns/op
+Benchmark                  Mode  Cnt          Score   Error  Units
+Case01.ArrayListBenchMark  avgt           15580.893          ns/op
+Case01.StreamBenchMark     avgt           11818.732          ns/op
+Case02.sumLongType         avgt        26997166.846          ns/op
+Case02.sumLongWrapper      avgt       537522452.632          ns/op
