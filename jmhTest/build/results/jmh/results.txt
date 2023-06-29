@@ -1,0 +1,3 @@
+Benchmark                  Mode  Cnt      Score   Error  Units
+Case01.ArrayListBenchMark  avgt       14281.474          ns/op
+Case01.StreamBenchMark     avgt       11175.336          ns/op
