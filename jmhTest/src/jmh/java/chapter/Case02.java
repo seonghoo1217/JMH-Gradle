@@ -1,3 +1,4 @@
+/*
 package chapter;
 
 import org.openjdk.jmh.annotations.*;
@@ -8,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.NANOSECONDS)
 public class Case02 {
+	//Data Type vs Wrapper Class
 	private long N = 100000000L;
 
 	@Benchmark
@@ -30,3 +32,4 @@ public class Case02 {
 		return result;
 	}
 }
+*/

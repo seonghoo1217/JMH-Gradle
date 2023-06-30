@@ -1,4 +1,3 @@
-JMH S 14 chapter.Case01 S 55 chapter.jmh_generated.Case01_ArrayListBenchMark_jmhTest S 18 ArrayListBenchMark S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
-JMH S 14 chapter.Case01 S 52 chapter.jmh_generated.Case01_StreamBenchMark_jmhTest S 15 StreamBenchMark S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
-JMH S 14 chapter.Case02 S 48 chapter.jmh_generated.Case02_sumLongType_jmhTest S 11 sumLongType S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
-JMH S 14 chapter.Case02 S 51 chapter.jmh_generated.Case02_sumLongWrapper_jmhTest S 14 sumLongWrapper S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 14 chapter.Case03 S 49 chapter.jmh_generated.Case03_addArrayList_jmhTest S 12 addArrayList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 14 chapter.Case03 S 50 chapter.jmh_generated.Case03_addLinkedList_jmhTest S 13 addLinkedList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 14 chapter.Case03 S 46 chapter.jmh_generated.Case03_addVector_jmhTest S 9 addVector S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 

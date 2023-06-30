@@ -1,3 +1,4 @@
+/*
 package chapter;
 
 import org.openjdk.jmh.annotations.*;
@@ -53,3 +54,4 @@ public class Case01 {
 //				.include(Redu)
 //	}
 }
+*/
