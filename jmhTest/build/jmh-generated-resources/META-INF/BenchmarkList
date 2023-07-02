@@ -1,3 +1,3 @@
-JMH S 14 chapter.Case03 S 49 chapter.jmh_generated.Case03_addArrayList_jmhTest S 12 addArrayList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
-JMH S 14 chapter.Case03 S 50 chapter.jmh_generated.Case03_addLinkedList_jmhTest S 13 addLinkedList S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
-JMH S 14 chapter.Case03 S 46 chapter.jmh_generated.Case03_addVector_jmhTest S 9 addVector S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 14 chapter.Case04 S 56 chapter.jmh_generated.Case04_useStringBufferCase_jmhTest S 19 useStringBufferCase S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 14 chapter.Case04 S 57 chapter.jmh_generated.Case04_useStringBuilderCase_jmhTest S 20 useStringBuilderCase S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 14 chapter.Case04 S 50 chapter.jmh_generated.Case04_useStringCase_jmhTest S 13 useStringCase S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
